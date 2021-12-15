@@ -1,0 +1,17 @@
+/* set the layout to border box model */
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+/* Set font family and background gradient */
+body {
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(353deg, rgba(148, 210, 189, 1) 40%,
+    rgba(61, 147, 151, 1) 100%);
+}
