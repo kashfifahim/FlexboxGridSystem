@@ -1,2 +1,4 @@
 # FlexboxGridSystem
-Exploratory project on instrumentation of the flexbox grid system
+Exploratory project on the instrumentation of the flexbox grid system
+
+## Wednesday 12-15
